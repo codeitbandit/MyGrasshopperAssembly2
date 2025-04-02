@@ -17,7 +17,7 @@ namespace MyGrasshopperAssembly2
     /// new tabs/panels will automatically be created.
     /// </summary>
     public MyGrasshopperAssemblyComponent2()
-      : base("MyGrasshopperAssemblyComponent2", "Nickname",
+      : base("MyGrasshopperAssemblyComponent2", "Nnickname",
         "Description",
         "Category", "Subcategory")
     {
